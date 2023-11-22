@@ -1,0 +1,128 @@
+[
+    {
+        "tipo": "Tops",
+        "precio": 7000,
+        "stock": 15,
+        "imagen": "../assets/imagenes/top1.png"
+    },  
+    {   
+        "tipo": "Tops",
+        "precio": 7500,
+        "stock": 20,
+        "imagen": "../assets/imagenes/top2.png"
+    },  
+    {   
+        "tipo": "Tops",
+        "precio": 7300,
+        "stock": 12,
+        "imagen": "../assets/imagenes/top3.png"
+    },  
+    {   
+        "tipo": "Calzas",
+        "precio": 10500,
+        "stock": 7,
+        "imagen": "../assets/imagenes/calza1.png"
+    },  
+    {   
+        "tipo": "Calzas",
+        "precio": 12500,
+        "stock": 13,
+        "imagen": "../assets/imagenes/calza2.png"
+    },  
+    {   
+        "tipo": "Calzas",
+        "precio": 11300,
+        "stock": 10,
+        "imagen": "../assets/imagenes/calza3.png"
+    },  
+    {   
+        "tipo": "Polleras",
+        "precio": 8200,
+        "stock": 8,
+        "imagen": "../assets/imagenes/pollera1.png"
+    },  
+    {   
+        "tipo": "Polleras",
+        "precio": 8900,
+        "stock": 7,
+        "imagen": "../assets/imagenes/pollera2.png"
+    },  
+    {   
+        "tipo": "Polleras",
+        "precio": 9300,
+        "stock": 11,
+        "imagen": "../assets/imagenes/pollera3.png"
+    },  
+    {   
+        "tipo": "Buzos",
+        "precio": 15700,
+        "stock": 20,
+        "imagen": "../assets/imagenes/buzo2.png"
+    },  
+    {   
+        "tipo": "Buzos",
+        "precio": 16900,
+        "stock": 14,
+        "imagen": "../assets/imagenes/buzo3.png"
+    },  
+    {   
+        "tipo": "Elasticos",
+        "precio": 2200,
+        "stock": 8,
+        "imagen": "../assets/imagenes/elastico1.png"
+    },  
+    {   
+        "tipo": "Elasticos",
+        "precio": 3200,
+        "stock": 5,
+        "imagen": "../assets/imagenes/elastico2.png"
+    },  
+    {   
+        "tipo": "Mancuernas",
+        "precio": 3000,
+        "stock": 14,
+        "imagen": "../assets/imagenes/mancuernas1.png"
+    },  
+    {   
+        "tipo": "Mancuernas",
+        "precio": 3600,
+        "stock": 16,
+        "imagen": "../assets/imagenes/mancuernas3.png"
+    },  
+    {   
+        "tipo": "Mancuernas",
+        "precio": 4500,
+        "stock": 16,
+        "imagen": "../assets/imagenes/mancuernas2.png"
+    },  
+    {   
+        "tipo": "Tobilleras",
+        "precio": 3100,
+        "stock": 10,
+        "imagen": "../assets/imagenes/tobilleras1.png"
+    },  
+    {   
+        "tipo": "Tobilleras",
+        "precio": 3900,
+        "stock": 8,
+        "imagen": "../assets/imagenes/tobilleras2.png"
+    },  
+    {   
+        "tipo": "Tobilleras",
+        "precio": 4300,
+        "stock": 12,
+        "imagen": "../assets/imagenes/tobilleras3.png"
+    },  
+    {   
+        "tipo": "Colchonetas",
+        "precio": 7000,
+        "stock": 6,
+        "imagen": "../assets/imagenes/colchoneta1.png"
+    },
+    {
+        "tipo": "Colchonetas",
+        "precio": 8300,
+        "stock": 7,
+        "imagen": "../assets/imagenes/colchoneta3.png"
+    }
+]
